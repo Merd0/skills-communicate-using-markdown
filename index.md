@@ -22,3 +22,10 @@ merhaba()
    - **Commit changes**
 
 **Hangi programlama dili ile örnek yapmak istiyorsun?** Python mı, JavaScript mi, yoksa Git command mi? 🤔
+
+## Yapacaklarım:
+- [ ] GitHub Pages ile website yapmak
+- [ ] Portfolio hazırlamak
+- [ ] Markdown'ı iyice öğrenmek
+- [x] GitHub Skills kursuna başlamak
+
