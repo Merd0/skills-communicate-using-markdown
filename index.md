@@ -1,6 +1,4 @@
-# H1 - En büyük
-## H2 - İkinci seviye  
-### H3 - Üçüncü seviye
-#### H4 - Dördüncü seviye
-##### H5 - Beşinci seviye
-###### H6 - En küçük
+# Merhaba GitHub Skills!
+## Bu benim ikinci header'ım
+
+![Selamlar bu bir Yaktocat image](https://octodex.github.com/images/yaktocat.png)
